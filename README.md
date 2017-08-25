@@ -3,8 +3,11 @@
 Problme Statement : Create two seperate c files contains 1 thread each,compile one c file with static library and other c file with dyanamic library and write aplication c file which will run both thread1 and thread2 by using makefile
 
 1.Create c file contains thread1 for printing Numbers.
+
 2.Create c file contains other thread2 for printing Alphabets.
+
 3.Main file for executing both threads.
+
 4.Makefile 
 
 Makefile :
