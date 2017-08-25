@@ -51,4 +51,8 @@ B) Dynamic Library
     * Run apllicatio program
      $./Main1
     
-    
+ C)To run both simulaneously
+ 
+    * run Makefile
+    $make
+ 
