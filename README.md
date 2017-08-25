@@ -16,7 +16,8 @@ A) Static Library
    * Static library is linked at compile time having extension .a (in linux) and .lib(in windows)
    It is created by using following command :
    
-   $ ar rcs lib_alphabetsS.a lib_alphabetsS.o
+   $ar rcs lib_alphabetsS.a lib_alphabetsS.o
+   
    where,
     lib_alphabetsS.a -> generated static library
     lib_alphabetsS.o -> object file of lib_alphabets.c file 
