@@ -16,6 +16,7 @@ A) Static Library
    * Static library is linked at compile time having extension .a (in linux) and .lib(in windows)
    It is created by using following command :
    
+   
    $ ar rcs lib_alphabetsS.a lib_alphabetsS.o
    
     where,
@@ -36,6 +37,7 @@ B) Dynamic Library
     * Dynamic library is linked at run time having extension .so(in linux ) and .dll(int windows)
     .so means shared object linked dynamically.
     It is created by using following command :
+    
     
     $gcc -shared -fPIC -o lib_numbersD.so lib_numbersD.c
     
