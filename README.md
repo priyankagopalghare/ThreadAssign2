@@ -18,6 +18,7 @@ A) Static Library
    
    
    $ ar rcs lib_alphabetsS.a lib_alphabetsS.o
+   
    where,
     lib_alphabetsS.a -> generated static library
     lib_alphabetsS.o -> object file of lib_alphabets.c file 
